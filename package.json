@@ -30,5 +30,8 @@
   "homepage": "https://github.com/makemek/eslint-config-modcolle#readme",
   "devDependencies": {
     "eslint": "^3.18.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=3.8.1"
   }
 }
