@@ -1,0 +1,25 @@
+{
+  "name": "eslint-config-modcolle",
+  "version": "0.1.0",
+  "description": "Eslint sharable config for Modcolle style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makemek/eslint-config-modcolle.git"
+  },
+  "keywords": [
+    "eslint",
+    "modcolle",
+    "style",
+    "lint"
+  ],
+  "author": "Apipol Niyomsak <makemek101@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/makemek/eslint-config-modcolle/issues"
+  },
+  "homepage": "https://github.com/makemek/eslint-config-modcolle#readme"
+}
