@@ -32,6 +32,6 @@
     "eslint": "^3.18.0"
   },
   "peerDependencies": {
-    "eslint": ">=3.8.1"
+    "eslint": ">=4.1.1"
   }
 }
